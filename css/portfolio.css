@@ -169,13 +169,13 @@ main{
 .resume-item-title{
     margin-bottom: 10px;
     color: #474747;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 700;
 }
 .resume-item-subtitle{
     margin: 0 0 20px;
     color: #757575;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
 }
 .resume-item-description{
@@ -194,3 +194,11 @@ main{
 }
 
 /* Main section end */
+
+/* Footer start */
+footer{
+    padding: 130px 200px;
+    display: flex;
+    background-color: #FFF8F3;
+}
+/* Footer end */
