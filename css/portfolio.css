@@ -99,6 +99,7 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+
 /* About CSS */
 .about{
     margin: 130px 0;
@@ -124,5 +125,14 @@ main{
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
+}
+
+/* What I do CSS */
+#what-i-do-desc{
+    padding: 30px 145px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
 }
 /* Main section end */
